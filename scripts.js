@@ -47,3 +47,10 @@ function regrasIMC(valor) {
     if (valor > 34.9 && valor <= 39.9) return "Obesidade Grau 2!"
     if (valor > 39.9) return "Obesidade Grau 3!"
 }
+
+inputPeso.addEventListener('keypress', function(event) {
+    if (event.key === 'Enter') {
+        // Simula o clique do botão
+        document.getElementById('botao').click();
+    }
+});
