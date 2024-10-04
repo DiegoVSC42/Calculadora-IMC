@@ -4,7 +4,6 @@ Este projeto é uma **calculadora de IMC (Índice de Massa Corporal)** desenvolv
 
 <a href="https://calculadora-imc-chi-seven.vercel.app/" target="_blank" style="color:white">Clique aqui</a> para acessar a aplicação.
 
-
 ## Funcionalidades:
 - Entrada de dados (peso em kg e altura em metros).
 - Cálculo automático do IMC.
